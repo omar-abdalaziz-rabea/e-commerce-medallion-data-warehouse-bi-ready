@@ -293,32 +293,6 @@ The final modeled datasets provide a clean, structured, and validated foundation
 
 ---
 
-📁 Project Structure
-
-Olist_Ecommerce_Project/
-├── data_dictionary
-│
-├── datasets/
-│ ├── raw_data/
-│ ├── clean_data/
-│ └── modeled_data/
-│
-├── notebooks/
-│   ├── 01_transformation.ipynb
-|   ├── 02_modeling.ipynb
-|   ├── 03_validation.ipynb
-|
-├── reports/
-│ ├── 01_orders_report.html
-│ ├── 02_customers_report.html
-│ ├── 03_order_items_report.html
-│ ├── 04_order_reviews_report.html
-│ ├── 05_products_report.html
-│ └── 06_sellers_report.html
-│
-├── Snowflake_Schema_model.png
-|
-└── README.md
 ![Model Diagram](Snowflake_Schema_Model.png)
 
 ---
