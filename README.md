@@ -1,4 +1,4 @@
-🛒 Olist E-Commerce | End-to-End Data Datawarehouse, ETL & Snowflake Modeling Using Python
+🛒 End-to-End E-Commerce Data Datawarehouse, ETL & Snowflake Modeling Using Python
 
 📌 Project Overview
 
